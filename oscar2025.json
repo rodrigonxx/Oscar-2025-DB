@@ -1,5 +1,4 @@
 [
-  /* MELHOR FILME (BEST PICTURE) - 10 INDICADOS */
   {
     "id_registro": 1,
     "ano_filmagem": 2024,
@@ -101,7 +100,6 @@
     "vencedor": "false"
   },
 
-  /* MELHOR DIREÇÃO (DIRECTING) - 5 INDICADOS */
   {
     "id_registro": 11,
     "ano_filmagem": 2024,
@@ -152,8 +150,6 @@
     "nome_do_filme": "The Zone of Interest",
     "vencedor": "false"
   },
-
-  /* MELHOR ATOR (ACTOR IN A LEADING ROLE) - 5 INDICADOS */
   {
     "id_registro": 16,
     "ano_filmagem": 2024,
@@ -204,8 +200,6 @@
     "nome_do_filme": "American Fiction",
     "vencedor": "false"
   },
-
-  /* MELHOR ATRIZ (ACTRESS IN A LEADING ROLE) - 5 INDICADOS */
   {
     "id_registro": 21,
     "ano_filmagem": 2024,
@@ -256,8 +250,6 @@
     "nome_do_filme": "Nyad",
     "vencedor": "false"
   },
-
-  /* MELHOR ATOR COADJUVANTE (SUPPORTING ACTOR) - 5 INDICADOS */
   {
     "id_registro": 26,
     "ano_filmagem": 2024,
@@ -308,8 +300,6 @@
     "nome_do_filme": "American Fiction",
     "vencedor": "false"
   },
-
-  /* MELHOR ATRIZ COADJUVANTE (SUPPORTING ACTRESS) - 5 INDICADAS */
   {
     "id_registro": 31,
     "ano_filmagem": 2024,
@@ -360,8 +350,6 @@
     "nome_do_filme": "The Color Purple",
     "vencedor": "false"
   },
-
-  /* MELHOR ROTEIRO ORIGINAL (ORIGINAL SCREENPLAY) - 5 INDICADOS */
   {
     "id_registro": 36,
     "ano_filmagem": 2024,
@@ -412,8 +400,6 @@
     "nome_do_filme": "Maestro",
     "vencedor": "false"
   },
-
-  /* MELHOR ROTEIRO ADAPTADO (ADAPTED SCREENPLAY) - 5 INDICADOS */
   {
     "id_registro": 41,
     "ano_filmagem": 2024,
@@ -464,8 +450,6 @@
     "nome_do_filme": "Killers of the Flower Moon",
     "vencedor": "false"
   },
-
-  /* MELHOR FILME INTERNACIONAL (INTERNATIONAL FEATURE FILM) - 5 INDICADOS */
   {
     "id_registro": 46,
     "ano_filmagem": 2024,
@@ -516,8 +500,6 @@
     "nome_do_filme": "El Eco (México)",
     "vencedor": "false"
   },
-
-  /* MELHOR ANIMAÇÃO (ANIMATED FEATURE FILM) - 5 INDICADOS */
   {
     "id_registro": 51,
     "ano_filmagem": 2024,
@@ -568,8 +550,6 @@
     "nome_do_filme": "Robot Dreams",
     "vencedor": "false"
   },
-
-  /* MELHOR DOCUMENTÁRIO (DOCUMENTARY FEATURE) - 5 INDICADOS */
   {
     "id_registro": 56,
     "ano_filmagem": 2024,
@@ -620,8 +600,6 @@
     "nome_do_filme": "To Kill a Tiger",
     "vencedor": "false"
   },
-
-  /* MELHOR FOTOGRAFIA (CINEMATOGRAPHY) - 5 INDICADOS */
   {
     "id_registro": 61,
     "ano_filmagem": 2024,
@@ -672,8 +650,6 @@
     "nome_do_filme": "The Zone of Interest",
     "vencedor": "false"
   },
-
-  /* MELHOR EDIÇÃO (FILM EDITING) - 5 INDICADOS */
   {
     "id_registro": 66,
     "ano_filmagem": 2024,
@@ -724,8 +700,6 @@
     "nome_do_filme": "Maestro",
     "vencedor": "false"
   },
-
-  /* MELHOR DESIGN DE PRODUÇÃO (PRODUCTION DESIGN) - 5 INDICADOS */
   {
     "id_registro": 71,
     "ano_filmagem": 2024,
@@ -776,8 +750,6 @@
     "nome_do_filme": "Asteroid City",
     "vencedor": "false"
   },
-
-  /* MELHOR FIGURINO (COSTUME DESIGN) - 5 INDICADOS */
   {
     "id_registro": 76,
     "ano_filmagem": 2024,
@@ -828,8 +800,6 @@
     "nome_do_filme": "Asteroid City",
     "vencedor": "false"
   },
-
-  /* MELHOR MAQUIAGEM (MAKEUP AND HAIRSTYLING) - 5 INDICADOS */
   {
     "id_registro": 81,
     "ano_filmagem": 2024,
@@ -880,8 +850,6 @@
     "nome_do_filme": "Oppenheimer",
     "vencedor": "false"
   },
-
-  /* MELHOR TRILHA SONORA (ORIGINAL SCORE) - 5 INDICADOS */
   {
     "id_registro": 86,
     "ano_filmagem": 2024,
@@ -932,8 +900,6 @@
     "nome_do_filme": "The Zone of Interest",
     "vencedor": "false"
   },
-
-  /* MELHOR CANÇÃO (ORIGINAL SONG) - 5 INDICADOS */
   {
     "id_registro": 91,
     "ano_filmagem": 2024,
@@ -984,8 +950,6 @@
     "nome_do_filme": "Road to Freedom (Rustin)",
     "vencedor": "false"
   },
-
-  /* MELHOR SOM (SOUND) - 5 INDICADOS */
   {
     "id_registro": 96,
     "ano_filmagem": 2024,
@@ -1036,8 +1000,6 @@
     "nome_do_filme": "Barbie",
     "vencedor": "false"
   },
-
-  /* MELHORES EFEITOS VISUAIS (VISUAL EFFECTS) - 5 INDICADOS */
   {
     "id_registro": 101,
     "ano_filmagem": 2024,
@@ -1088,8 +1050,6 @@
     "nome_do_filme": "Napoleon",
     "vencedor": "false"
   },
-
-  /* MELHOR CURTA-METRAGEM (SHORT FILM - LIVE ACTION) - 5 INDICADOS */
   {
     "id_registro": 106,
     "ano_filmagem": 2024,
@@ -1140,8 +1100,6 @@
     "nome_do_filme": "The Wonderful Story of Henry Sugar",
     "vencedor": "false"
   },
-
-  /* MELHOR CURTA-ANIMAÇÃO (SHORT FILM - ANIMATED) - 5 INDICADOS */
   {
     "id_registro": 111,
     "ano_filmagem": 2024,
@@ -1192,8 +1150,6 @@
     "nome_do_filme": "Pachyderme",
     "vencedor": "false"
   },
-
-  /* MELHOR DOCUMENTÁRIO CURTA (DOCUMENTARY SHORT) - 5 INDICADOS */
   {
     "id_registro": 116,
     "ano_filmagem": 2024,
