@@ -1,0 +1,1302 @@
+[
+    {
+        "id_registro": 10890,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Yura Borisov",
+        "nome_do_filme": "Anora",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10891,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Kieran Culkin",
+        "nome_do_filme": "A Real Pain",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10892,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Edward Norton",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10893,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Guy Pearce",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10894,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Jeremy Strong",
+        "nome_do_filme": "The Apprentice",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10895,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "A Complete Unknown",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10896,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Conclave",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10897,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Gladiator II",
+        "nome_do_filme": "Gladiator II",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10898,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Nosferatu",
+        "nome_do_filme": "Nosferatu",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10899,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Wicked",
+        "nome_do_filme": "Wicked",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10890,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Yura Borisov",
+        "nome_do_filme": "Anora",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10891,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Kieran Culkin",
+        "nome_do_filme": "A Real Pain",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10892,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Edward Norton",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10893,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Guy Pearce",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10894,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actor",
+        "nome_do_indicado": "Jeremy Strong",
+        "nome_do_filme": "The Apprentice",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10895,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "A Complete Unknown",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10896,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Conclave",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10897,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Gladiator II",
+        "nome_do_filme": "Gladiator II",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10898,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Nosferatu",
+        "nome_do_filme": "Nosferatu",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10899,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Costume Design",
+        "nome_do_indicado": "Wicked",
+        "nome_do_filme": "Wicked",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10900,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Makeup and Hairstyling",
+        "nome_do_indicado": "A Different Man",
+        "nome_do_filme": "A Different Man",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10901,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Makeup and Hairstyling",
+        "nome_do_indicado": "Emilia Pérez",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10902,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Makeup and Hairstyling",
+        "nome_do_indicado": "Nosferatu",
+        "nome_do_filme": "Nosferatu",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10903,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Makeup and Hairstyling",
+        "nome_do_indicado": "The Substance",
+        "nome_do_filme": "The Substance",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10904,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Makeup and Hairstyling",
+        "nome_do_indicado": "Wicked",
+        "nome_do_filme": "Wicked",
+        "vencedor": true
+    },
+    {
+        "id_registro": 10905,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Score",
+        "nome_do_indicado": "Daniel Blumberg",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10906,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Score",
+        "nome_do_indicado": "Volker Bertelmann",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10907,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Score",
+        "nome_do_indicado": "Clément Ducol and Camille",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10908,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Score",
+        "nome_do_indicado": "John Powell and Stephen Schwartz",
+        "nome_do_filme": "Wicked",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10909,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Score",
+        "nome_do_indicado": "Kris Bowers",
+        "nome_do_filme": "The Wild Robot",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10910,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Live Action Short Film",
+        "nome_do_indicado": "A Lien",
+        "nome_do_filme": "A Lien",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10911,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Live Action Short Film",
+        "nome_do_indicado": "Anuja",
+        "nome_do_filme": "Anuja",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10912,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Live Action Short Film",
+        "nome_do_indicado": "I'm Not a Robot",
+        "nome_do_filme": "I'm Not a Robot",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10913,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Live Action Short Film",
+        "nome_do_indicado": "The Last Ranger",
+        "nome_do_filme": "The Last Ranger",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10914,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Live Action Short Film",
+        "nome_do_indicado": "The Man Who Could Not Remain Silent",
+        "nome_do_filme": "The Man Who Could Not Remain Silent",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10915,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Animated Short Film",
+        "nome_do_indicado": "Beautiful Men",
+        "nome_do_filme": "Beautiful Men",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10916,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Animated Short Film",
+        "nome_do_indicado": "In the Shadow of the Cypress",
+        "nome_do_filme": "In the Shadow of the Cypress",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10917,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Animated Short Film",
+        "nome_do_indicado": "Magic Candies",
+        "nome_do_filme": "Magic Candies",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10918,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Animated Short Film",
+        "nome_do_indicado": "Wander to Wonder",
+        "nome_do_filme": "Wander to Wonder",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10919,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Animated Short Film",
+        "nome_do_indicado": "Yuck!",
+        "nome_do_filme": "Yuck!",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10920,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Screenplay",
+        "nome_do_indicado": "Anora",
+        "nome_do_filme": "Anora",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10921,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Screenplay",
+        "nome_do_indicado": "The Brutalist",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10922,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Screenplay",
+        "nome_do_indicado": "A Real Pain",
+        "nome_do_filme": "A Real Pain",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10923,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Screenplay",
+        "nome_do_indicado": "The Substance",
+        "nome_do_filme": "The Substance",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10924,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Screenplay",
+        "nome_do_indicado": "September 5",
+        "nome_do_filme": "September 5",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10925,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Adapted Screenplay",
+        "nome_do_indicado": "A Complete Unknown",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10926,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Adapted Screenplay",
+        "nome_do_indicado": "Conclave",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10927,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Adapted Screenplay",
+        "nome_do_indicado": "Emilia Pérez",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10928,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Adapted Screenplay",
+        "nome_do_indicado": "Nickel Boys",
+        "nome_do_filme": "Nickel Boys",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10929,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Adapted Screenplay",
+        "nome_do_indicado": "Sing Sing",
+        "nome_do_filme": "Sing Sing",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10930,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actress",
+        "nome_do_indicado": "Monica Barbaro",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10931,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actress",
+        "nome_do_indicado": "Ariana Grande",
+        "nome_do_filme": "Wicked",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10932,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actress",
+        "nome_do_indicado": "Felicity Jones",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10933,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actress",
+        "nome_do_indicado": "Isabella Rossellini",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10934,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Supporting Actress",
+        "nome_do_indicado": "Zoe Saldaña",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10935,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Song",
+        "nome_do_indicado": "El Mal",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10936,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Song",
+        "nome_do_indicado": "The Journey",
+        "nome_do_filme": "The Six Triple Eight",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10937,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Song",
+        "nome_do_indicado": "Like a Bird",
+        "nome_do_filme": "Sing Sing",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10938,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Song",
+        "nome_do_indicado": "Mi Camino",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10939,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Original Song",
+        "nome_do_indicado": "Never Too Late",
+        "nome_do_filme": "Elton John: Never Too Late",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10940,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Feature",
+        "nome_do_indicado": "Black Box Diaries",
+        "nome_do_filme": "Black Box Diaries",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10941,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Feature",
+        "nome_do_indicado": "No Other Land",
+        "nome_do_filme": "No Other Land",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10942,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Feature",
+        "nome_do_indicado": "Porcelain War",
+        "nome_do_filme": "Porcelain War",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10943,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Feature",
+        "nome_do_indicado": "Soundtrack to a Coup d’Etat",
+        "nome_do_filme": "Soundtrack to a Coup d’Etat",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10944,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Feature",
+        "nome_do_indicado": "Sugarcane",
+        "nome_do_filme": "Sugarcane",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10945,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "Death By Numbers",
+        "nome_do_filme": "Death By Numbers",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10946,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "I am Ready, Warden",
+        "nome_do_filme": "I am Ready, Warden",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10947,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "Incident",
+        "nome_do_filme": "Incident",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10948,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "Instruments of a Beating Heart",
+        "nome_do_filme": "Instruments of a Beating Heart",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10949,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "The Only Girl in the Orchestra",
+        "nome_do_filme": "The Only Girl in the Orchestra",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10950,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "I'm Still Here",
+        "nome_do_filme": "I'm Still Here",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10951,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "The Girl with the Needle",
+        "nome_do_filme": "The Girl with the Needle",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10952,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "Emilia Pérez",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10953,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "The Seed of the Sacred Fig",
+        "nome_do_filme": "The Seed of the Sacred Fig",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10954,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "Flow",
+        "nome_do_filme": "Flow",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10945,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "Death By Numbers",
+        "nome_do_filme": "Death By Numbers",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10946,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "I am Ready, Warden",
+        "nome_do_filme": "I am Ready, Warden",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10947,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "Incident",
+        "nome_do_filme": "Incident",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10948,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "Instruments of a Beating Heart",
+        "nome_do_filme": "Instruments of a Beating Heart",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10949,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Documentary Short Film",
+        "nome_do_indicado": "The Only Girl in the Orchestra",
+        "nome_do_filme": "The Only Girl in the Orchestra",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10950,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "I'm Still Here",
+        "nome_do_filme": "I'm Still Here",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10951,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "The Girl with the Needle",
+        "nome_do_filme": "The Girl with the Needle",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10952,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "Emilia Pérez",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10953,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "The Seed of the Sacred Fig",
+        "nome_do_filme": "The Seed of the Sacred Fig",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10954,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best International Feature Film",
+        "nome_do_indicado": "Flow",
+        "nome_do_filme": "Flow",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10965,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Film Editing",
+        "nome_do_indicado": "Anora",
+        "nome_do_filme": "Anora",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10966,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Film Editing",
+        "nome_do_indicado": "The Brutalist",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10967,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Film Editing",
+        "nome_do_indicado": "Conclave",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10968,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Film Editing",
+        "nome_do_indicado": "Emilia Pérez",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10969,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Film Editing",
+        "nome_do_indicado": "Wicked",
+        "nome_do_filme": "Wicked",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10970,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Sound",
+        "nome_do_indicado": "A Complete Unknown",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10971,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Sound",
+        "nome_do_indicado": "Dune: Part Two",
+        "nome_do_filme": "Dune: Part Two",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10972,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Sound",
+        "nome_do_indicado": "Emilia Pérez",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10973,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Sound",
+        "nome_do_indicado": "Wicked",
+        "nome_do_filme": "Wicked",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10974,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Sound",
+        "nome_do_indicado": "The Wild Robot",
+        "nome_do_filme": "The Wild Robot",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10975,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Visual Effects",
+        "nome_do_indicado": "Alien: Romulus",
+        "nome_do_filme": "Alien: Romulus",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10976,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Visual Effects",
+        "nome_do_indicado": "Better Man",
+        "nome_do_filme": "Better Man",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10977,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Visual Effects",
+        "nome_do_indicado": "Dune: Part Two",
+        "nome_do_filme": "Dune: Part Two",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10978,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Visual Effects",
+        "nome_do_indicado": "Kingdom of the Planet of the Apes",
+        "nome_do_filme": "Kingdom of the Planet of the Apes",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10979,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Visual Effects",
+        "nome_do_indicado": "Wicked",
+        "nome_do_filme": "Wicked",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10980,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Cinematography",
+        "nome_do_indicado": "Lol Crawley",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10981,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Cinematography",
+        "nome_do_indicado": "Greig Fraser",
+        "nome_do_filme": "Dune: Part Two",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10982,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Cinematography",
+        "nome_do_indicado": "Paul Guilhaume",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10983,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Cinematography",
+        "nome_do_indicado": "Ed Lachman",
+        "nome_do_filme": "Maria",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10984,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Cinematography",
+        "nome_do_indicado": "Jarin Blaschke",
+        "nome_do_filme": "Nosferatu",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10985,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actor",
+        "nome_do_indicado": "Adrien Brody",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10986,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actor",
+        "nome_do_indicado": "Timothée Chalamet",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10987,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actor",
+        "nome_do_indicado": "Colman Domingo",
+        "nome_do_filme": "Sing Sing",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10988,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actor",
+        "nome_do_indicado": "Ralph Fiennes",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10989,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actor",
+        "nome_do_indicado": "Sebastian Stan",
+        "nome_do_filme": "The Apprentice",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10990,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actress",
+        "nome_do_indicado": "Cynthia Erivo",
+        "nome_do_filme": "Wicked",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10991,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actress",
+        "nome_do_indicado": "Karla Sofía Gascón",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10992,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actress",
+        "nome_do_indicado": "Mikey Madison",
+        "nome_do_filme": "Anora",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10993,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actress",
+        "nome_do_indicado": "Demi Moore",
+        "nome_do_filme": "The Substance",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10994,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Actress",
+        "nome_do_indicado": "Fernanda Torres",
+        "nome_do_filme": "I'm Still Here",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10995,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Directing",
+        "nome_do_indicado": "Sean Baker",
+        "nome_do_filme": "Anora",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 10996,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Directing",
+        "nome_do_indicado": "Brady Corbet",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10997,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Directing",
+        "nome_do_indicado": "James Mangold",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10998,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Directing",
+        "nome_do_indicado": "Jacques Audiard",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 10999,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Directing",
+        "nome_do_indicado": "Coralie Fargeat",
+        "nome_do_filme": "The Substance",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11000,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "Anora",
+        "nome_do_filme": "Anora",
+        "vencedor": "true"
+    },
+    {
+        "id_registro": 11001,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "The Brutalist",
+        "nome_do_filme": "The Brutalist",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11002,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "A Complete Unknown",
+        "nome_do_filme": "A Complete Unknown",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11003,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "Conclave",
+        "nome_do_filme": "Conclave",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11004,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "Dune: Part Two",
+        "nome_do_filme": "Dune: Part Two",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11005,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "Emilia Pérez",
+        "nome_do_filme": "Emilia Pérez",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11006,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "I'm Still Here",
+        "nome_do_filme": "I'm Still Here",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11007,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "Nickel Boys",
+        "nome_do_filme": "Nickel Boys",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11008,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "The Substance",
+        "nome_do_filme": "The Substance",
+        "vencedor": "false"
+    },
+    {
+        "id_registro": 11009,
+        "ano_filmagem": 2024,
+        "ano_cerimonia": 2025,
+        "cerimonia": 97,
+        "categoria": "Best Picture",
+        "nome_do_indicado": "Wicked",
+        "nome_do_filme": "Wicked",
+        "vencedor": "false"
+    }
+]
